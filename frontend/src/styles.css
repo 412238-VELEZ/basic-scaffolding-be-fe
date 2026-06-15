@@ -1,0 +1,11 @@
+/* Tailwind v4 — single import replaces @tailwind base/components/utilities */
+@import "tailwindcss";
+
+/*
+  Custom design tokens go here using CSS @theme.
+  Example:
+  @theme {
+    --color-brand: #6366f1;
+    --font-sans: 'Inter', sans-serif;
+  }
+*/
